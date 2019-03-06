@@ -208,4 +208,4 @@ ggplot() + geom_bar(data=highs, aes(x = Job, y=value, fill=col), position="stack
   theme(legend.position = "bottom") +
   scale_y_continuous(breaks=seq(mymin,mymax,25), limits=c(mymin,mymax))
 
-beep(1)
+beep(1)..
